@@ -398,6 +398,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
+- [Awesome-BCI](https://github.com/NeuroTechX/awesome-bci) - List of Neurotechnology related ressources. Managed by NeuroTechX
 
 
 ## Business
